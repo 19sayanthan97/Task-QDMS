@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-26T11:37:14Z" name="Suite" finished-at="2023-02-26T11:37:43Z" duration-ms="29320">
+    <groups>
+    </groups>
+    <test started-at="2023-02-26T11:37:14Z" name="Test" finished-at="2023-02-26T11:37:43Z" duration-ms="29320">
+      <class name="com.invicta.qa.testcases.login.LoginTest">
+        <test-method is-config="true" signature="main()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@76889e60]" started-at="2023-02-26T11:37:08Z" name="main" finished-at="2023-02-26T11:37:14Z" duration-ms="5895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="Login()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@76889e60]" started-at="2023-02-26T11:37:14Z" name="Login" finished-at="2023-02-26T11:37:19Z" duration-ms="5607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="closeChrome()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@76889e60]" started-at="2023-02-26T11:37:43Z" name="closeChrome" finished-at="2023-02-26T11:37:43Z" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChrome -->
+      </class> <!-- com.invicta.qa.testcases.login.LoginTest -->
+      <class name="com.invicta.qa.testcases.mytest.cancelEmployeeModal">
+        <test-method signature="cancelEmployee()[pri:0, instance:com.invicta.qa.testcases.mytest.cancelEmployeeModal@706fe5c6]" started-at="2023-02-26T11:37:19Z" name="cancelEmployee" finished-at="2023-02-26T11:37:43Z" duration-ms="23686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelEmployee -->
+      </class> <!-- com.invicta.qa.testcases.mytest.cancelEmployeeModal -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
